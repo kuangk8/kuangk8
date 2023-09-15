@@ -1,0 +1,5 @@
+- 👋 Hi, I’m wangzijian's father
+- 👀 I’m interested in CV
+- 🌱 I’m currently learning CV and deploy
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me kuangk8@163.com
